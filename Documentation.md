@@ -1,5 +1,5 @@
-# Orion Library
-This documentation is for the stable release of Orion Library.
+# galacta lil shit
+just orion with some minor changes for my script hub
 
 ## Booting the Library
 ```lua
