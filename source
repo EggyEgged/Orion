@@ -21,8 +21,16 @@ local OrionLib = {
 			Text = Color3.fromRGB(240, 240, 240),
 			TextDark = Color3.fromRGB(150, 150, 150)
 		}
+		Galacta = {
+			Main = Color3.fromRGB(101, 78, 107),
+			Second = Color3.fromRGB(136, 81, 138),
+			Stroke = Color3.fromRGB(77, 69, 79),
+			Divider = Color3.fromRGB(77, 69, 79),
+			Text = Color3.fromRGB(237, 228, 237),
+			TextDark = Color3.fromRGB(148, 141, 148)
+		}
 	},
-	SelectedTheme = "Default",
+	SelectedTheme = "Galacta",
 	Folder = nil,
 	SaveCfg = false
 }
